@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StringDrinkTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2022-11-15T08:57:33" hostname="DESKTOP-82CRQVO" time="0.591">
+  <properties/>
+  <testcase name="happyHour()" classname="StringDrinkTest" time="0.021"/>
+  <testcase name="stringReplacer()" classname="StringDrinkTest" time="0.006"/>
+  <testcase name="impatientStrategy()" classname="StringDrinkTest" time="0.007"/>
+  <testcase name="transformUndo()" classname="StringDrinkTest" time="0.001"/>
+  <testcase name="stringDrink()" classname="StringDrinkTest" time="0.0"/>
+  <testcase name="removeObserver()" classname="StringDrinkTest" time="0.517"/>
+  <testcase name="smartStrategyStartClosed()" classname="StringDrinkTest" time="0.003"/>
+  <testcase name="stringInverter()" classname="StringDrinkTest" time="0.001"/>
+  <testcase name="smartStrategyStartOpened()" classname="StringDrinkTest" time="0.0"/>
+  <testcase name="addObserver()" classname="StringDrinkTest" time="0.009"/>
+  <testcase name="orderStringRecipe()" classname="StringDrinkTest" time="0.0"/>
+  <testcase name="transformerGroup()" classname="StringDrinkTest" time="0.003"/>
+  <testcase name="transformerComposite()" classname="StringDrinkTest" time="0.0"/>
+  <testcase name="stringRecipe()" classname="StringDrinkTest" time="0.0"/>
+  <testcase name="ferengiStartClosed()" classname="StringDrinkTest" time="0.004"/>
+  <testcase name="ferengiAlreadyOpened()" classname="StringDrinkTest" time="0.0"/>
+  <testcase name="romulan()" classname="StringDrinkTest" time="0.002"/>
+  <testcase name="stringCaseChanger()" classname="StringDrinkTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
